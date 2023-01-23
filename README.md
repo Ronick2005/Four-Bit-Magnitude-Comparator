@@ -35,6 +35,9 @@ Similarly the condition for A<B can be possible in the following four cases:
 
 The condition of A=B is possible only when all the individual bits of one number exactly coincide with corresponding bits of another number.
 ## Program
+Developed by: Ronick Aakshath P
+
+RegisterNumber: 22007303
 ```
 module four_bit_mag_comp(eq, gr, lw, a3, a2, a1, a0, b3, b2, b1, b0);
 input a3, a2, a1, a0, b3, b2, b1, b0;
